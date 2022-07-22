@@ -1,0 +1,4 @@
+﻿  dz2p1.c
+D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz2p1\dz2p1\dz2p1\dz2p1.c(414,21): warning C4013: 'isItMagicSquare' undefined; assuming extern returning int
+D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz2p1\dz2p1\dz2p1\dz2p1.c(408,17): warning C4101: 'numDes': unreferenced local variable
+  dz2p1.vcxproj -> D:\Fakultet\I godina\II semestar\Algoritmi i strukture podataka 1\dz2p1\dz2p1\Debug\dz2p1.exe
